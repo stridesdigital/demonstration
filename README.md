@@ -1,5 +1,3 @@
 # DEMO
 
 - Learning
-
-Testando
